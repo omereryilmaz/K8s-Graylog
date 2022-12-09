@@ -1,1 +1,2 @@
-# K8s-Graylog
+# K8s-Graylog 
+### Graylog Stack Config Files
